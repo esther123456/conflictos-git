@@ -37,6 +37,19 @@ Modificacion para crear conflictos, esther123456
 https://github.com/esther123456
 ```
 
+    - Creado en el repositorio el nuevo proyecto conflictos-git
+    - He metido colaboradoras a mis compañeras desde el Repo
+    - Clonado la rama en mi local 
+
+    ```
+    git clone https://github.com/esther123456/conflictos-git.git
+    ```
+
+    - Creada la rama cabecera, creado el fichero index.html y metido una cabecara
+    - Despues al subirlo resolucion de conflictos
+    - Creada la rama esther donde modifico el README.md
+    - Mergeado rama esther a develop
+
 ### Leticia López
 
 ```
