@@ -2,12 +2,24 @@
 
 practica grupo 5 personas, Crear conflictos
 
-# Participantes
+## Participantes
 
-## Marina González Suárez
+### Marina González Suárez
 
-# https://github.com/Yelose
+```html
+<a href="https://github.com/Yelose"> Marina </a>
+```
 
-https://github.com/YOKAVOL Yolanda Jimenez Diez
+### Yolanda Jimenez Diez
+
+```
+https://github.com/YOKAVOL
+```
+
+### Esther Zorzo Mesa
+
 Modificacion para crear conflictos, esther123456
-https://github.com/esther123456 Esther Zorzo Mesa
+
+```
+https://github.com/esther123456
+```
