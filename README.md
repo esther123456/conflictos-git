@@ -14,7 +14,11 @@ practica grupo 5 personas, Crear conflictos
 
 ```
 https://github.com/YOKAVOL
-```
+-  Creada rama css, reseteando pag
+-  subido a repo comun 
+- mergeado a rama develop
+- creada nueva rama yola, modificando en readme con cambios
+añadida a develop
 
 ### Esther Zorzo Mesa
 
