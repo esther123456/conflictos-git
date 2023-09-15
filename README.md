@@ -29,6 +29,8 @@ https://github.com/esther123456
 ```
 https://github.com/Letixana 
 ```
+Letixana: Trabajo en el footer de html
+
 ### Mar Garcia Corbella
 
 ```
