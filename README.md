@@ -12,13 +12,13 @@ practica grupo 5 personas, Crear conflictos
 
 ### Yolanda Jimenez Diez
 
-```
 https://github.com/YOKAVOL
--  Creada rama css, reseteando pag
--  subido a repo comun 
+
+- Creada rama css, reseteando pag
+- subido a repo comun
 - mergeado a rama develop
 - creada nueva rama yola, modificando en readme con cambios
-añadida a develop
+  añadida a develop
 
 ### Esther Zorzo Mesa
 
@@ -31,10 +31,11 @@ https://github.com/esther123456
 ### Leticia López
 
 ```
-https://github.com/Letixana 
+https://github.com/Letixana
 ```
+
 ### Mar Garcia Corbella
 
 ```
-https://github.com/mariagarciacorbella 
+https://github.com/mariagarciacorbella
 ```
