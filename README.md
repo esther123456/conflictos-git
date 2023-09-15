@@ -6,6 +6,8 @@ practica grupo 5 personas, Crear conflictos
 
 ### Marina González Suárez
 
+    https://github.com/Yelose
+
 - He creado la rama body
 - He creado en index.html un <main> y he añadido algunos párrafos
 - He mergeado la rama body en develop y resuelto conflictos
@@ -14,10 +16,6 @@ practica grupo 5 personas, Crear conflictos
 - He cread la rama marina
 - He modificado el readme explicando lo que he ido haciendo
 - He mergeado marina en develop
-
-```
-    https://github.com/Yelose
-```
 
 ### Yolanda Jimenez Diez
 
@@ -33,13 +31,11 @@ https://github.com/YOKAVOL
 
 Modificacion para crear conflictos, esther123456
 
-```
 https://github.com/esther123456
-```
 
     - Creado en el repositorio el nuevo proyecto conflictos-git
     - He metido colaboradoras a mis compañeras desde el Repo
-    - Clonado la rama en mi local 
+    - Clonado la rama en mi local
 
     ```
     git clone https://github.com/esther123456/conflictos-git.git
@@ -52,9 +48,8 @@ https://github.com/esther123456
 
 ### Leticia López
 
-```
 https://github.com/Letixana
-```
+
 - He creado la rama footer
 - He creado en index.html un <footer> y he añadido algunos párrafos
 - He mergeado la rama footer body en develop y resuelto conflictos
@@ -64,16 +59,10 @@ https://github.com/Letixana
 - He modificado el readme explicando lo que he ido haciendo
 - He mergeado leti en develop
 
-
 ### Mar Garcia Corbella
 
-```
-<<<<<<< HEAD
 https://github.com/mariagarciacorbella
-```
-=======
-https://github.com/mariagarciacorbella 
-```
+
 - He creado la rama readme
 - He modificado el fichero README.md
 - Hemos estado creando conflito con las colaboradoras
@@ -81,4 +70,3 @@ https://github.com/mariagarciacorbella
 - Se ha hecho merge con todas las modificaciones que se han realizado con las colaboradoras en develop
 - He creado la nueva rama Mar donde introduzco este texto
 - Hago merge a develop y luego a main
->>>>>>> Mar
