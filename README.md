@@ -1,12 +1,60 @@
-# conflictos-git
+# Creando conflictos con git
 
 practica grupo 5 personas, Crear conflictos
 
+## Comandos utilizados
+
+```
+git clone
+```
+
+```
+git branch
+```
+
+```
+git switch
+```
+
+```
+git checkout
+```
+
+```
+git pull
+```
+
+```
+git add
+```
+
+```
+git commit -m ""
+```
+
+```
+git fetch
+```
+
+```
+git push
+```
+
+```
+git revert
+```
+
 ## Participantes
+
+- Marina González Suárez
+- Yolanda Jiménez Díez
+- Esther Zorzo Mesa
+- Leticia López
+- Mar García Corbella
 
 ### Marina González Suárez
 
-    https://github.com/Yelose
+https://github.com/Yelose
 
 - He creado la rama body
 - He creado en index.html un <main> y he añadido algunos párrafos
@@ -33,18 +81,18 @@ Modificacion para crear conflictos, esther123456
 
 https://github.com/esther123456
 
-    - Creado en el repositorio el nuevo proyecto conflictos-git
-    - He metido colaboradoras a mis compañeras desde el Repo
-    - Clonado la rama en mi local
+- Creado en el repositorio el nuevo proyecto conflictos-git
+- He metido colaboradoras a mis compañeras desde el Repo
+- Clonado la rama en mi local
 
-    ```
-    git clone https://github.com/esther123456/conflictos-git.git
-    ```
+```
+git clone https://github.com/esther123456/conflictos-git.git
+```
 
-    - Creada la rama cabecera, creado el fichero index.html y metido una cabecara
-    - Despues al subirlo resolucion de conflictos
-    - Creada la rama esther donde modifico el README.md
-    - Mergeado rama esther a develop
+- Creada la rama cabecera, creado el fichero index.html y metido una cabecara
+- Despues al subirlo resolucion de conflictos
+- Creada la rama esther donde modifico el README.md
+- Mergeado rama esther a develop
 
 ### Leticia López
 
