@@ -7,8 +7,10 @@ practica grupo 5 personas, Crear conflictos
 
 ## Marina González Suárez
 
-https://github.com/Yelose
-=======
+# https://github.com/Yelose
+
+https://github.com/YOKAVOL Yolanda Jimenez Diez
 Modificacion para crear conflictos, esther123456
 https://github.com/esther123456 Esther Zorzo Mesa
->>>>>>> c956712b5455d6dd8a810998d9b9a5a33a13ede8
+
+> > > > > > > c956712b5455d6dd8a810998d9b9a5a33a13ede8
